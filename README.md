@@ -5,7 +5,7 @@
 
 ### 2-SCHEMA
 
-### 2-CODE
+### 3-CODE
 ```C
 int mg1=3; //moteur gauche Output 1
 int mg2=4; //moteur gauche Output 2
